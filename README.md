@@ -1,0 +1,2 @@
+# -IPL-Analysis-using-Tablue
+The two data sets provide to us regarding IPL seasons from 2008 to 2017 are: matches.csv - It contains match-level information for each and every match held in IPL from 2008 to 2017. deliveries.csv - It contains ball-by-ball information for each of the matches. These are the Dashboards asked to create: Match Statistics  Player Statistics Team Statistics The same are explained in the upcoming slides
